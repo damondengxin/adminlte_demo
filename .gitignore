@@ -3,6 +3,7 @@ __pycache__/
 *.pyc
 *.py[cod]
 *$py.class
+
 !/migrations/__init__.py
 migrations/
 # C extensions
